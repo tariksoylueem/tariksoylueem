@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmet Tarik Soylu.  
+# 👋 Hi, I'm Tarik Soylu  
 🚀 **Electrical & Electronics Engineering Student | Embedded Systems & PCB Designer | Low-Level Developer**  
 
 💡 Interested in **Embedded Systems, PCB Design, Bare-Metal Programming, and IoT**  
@@ -6,7 +6,7 @@
 📡 Developing an **Autonomous Air Defense System** for **Teknofest**  
 
 📌 **Connect with me:**  
-[![LinkedIn](www.linkedin.com/in/tariksoylueem) 
-[![GitHub](https://github.com/tariksoylueem)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tariksoylueem)  
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat&logo=github)](https://github.com/tariksoylueem)  
 
 ---
