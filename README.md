@@ -6,7 +6,7 @@
 📡 Developing an **Autonomous Air Defense System** for **Teknofest**  
 
 📌 **Connect with me:**  
-[![LinkedIn](www.linkedin.com/in/tariksoylueem)  
+[![LinkedIn](www.linkedin.com/in/tariksoylueem) 
 [![GitHub](https://github.com/tariksoylueem)  
 
 ---
